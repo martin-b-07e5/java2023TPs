@@ -18,9 +18,14 @@ public class Main {
 
     // Llamo a las funciones estáticas
     int suma = Suma.suma(num1, num2);
-    System.out.println("El resultado de la suma es: " + suma);
+    boolean esDivisible = Divisible.esDivisible(num1, num2);
+    String resultadoDivision = esDivisible ? ("Resultado de la división: " + (num1 / num2)) : "";
 
-    String divisible = Divisible.divisible(num1, num2);
-    System.out.println("El rto de la division es: " + divisible);
+    System.out.println("El resultado de la suma es: " + suma);
+    System.out.println(num1 + " es divisible por " + num2 + ": " + (esDivisible ? "Sí" : "No"));
+    System.out.println(resultadoDivision);
+
+
+    scanner.close();
   }
 }
