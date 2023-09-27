@@ -1,4 +1,4 @@
-package org.example.a4_divisivilidad;
+package org.example.a04_divisivilidad;
 
 public class Divisible {
   public static boolean esDivisible(int num1, int num2) {

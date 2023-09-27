@@ -1,4 +1,4 @@
-package org.example.a4_divisivilidad;
+package org.example.a04_divisivilidad;
 
 import java.util.Scanner;
 

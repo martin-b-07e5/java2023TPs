@@ -1,4 +1,4 @@
-package org.example.a1_SumaDeDosNros;
+package org.example.a04_divisivilidad;
 
 public class Suma {
   public static int suma(int num1, int num2) {
