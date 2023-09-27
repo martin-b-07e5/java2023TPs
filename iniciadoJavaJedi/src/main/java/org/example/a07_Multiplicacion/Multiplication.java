@@ -20,7 +20,7 @@ public class Multiplication {
     int multiplicationInt = int1 * int2;
 
     double resultado = multiplicationDouble + multiplicationInt;
-    System.out.println("Widening casting is done automatically when passing a smaller size type to a larger size \n" +
+    System.out.println("Widening casting is done automatically when passing a smaller size type to a larger size.\n" +
         "type: " + resultado + "d");
   }
 
