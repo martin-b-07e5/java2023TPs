@@ -12,7 +12,5 @@ public class NombreBebida {
     String NombreDeUltimaPelicula = "Gods.Crooked.Lines.2022-Los_renglones_torcidos_de_Dios--española";
 
     System.out.println("\nNombre de la próxima bebida: " + NombreDeUltimaMascota + " " + NombreDeUltimaPelicula);
-
   }
-
 }
