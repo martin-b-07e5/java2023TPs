@@ -1,4 +1,4 @@
-package org.example.a1_SumaDeDosNros;
+package org.example.a01_SumaDeDosNros;
 
 import java.util.Scanner;
 

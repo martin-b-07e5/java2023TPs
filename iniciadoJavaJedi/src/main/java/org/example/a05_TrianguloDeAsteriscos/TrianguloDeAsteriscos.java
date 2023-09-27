@@ -1,4 +1,4 @@
-package org.example.a5_TrianguloDeAsteriscos;
+package org.example.a05_TrianguloDeAsteriscos;
 
 /*5. Triangulo de asteriscos: Imprimir un triángulo de asteriscos en la consola.*/
 public class TrianguloDeAsteriscos {
