@@ -1,4 +1,4 @@
-package org.example.a01_SumaDeDosNros;
+package org.example.a01_sumaDeDosNros;
 
 public class Paridad {
   public static String paridad(int num1, int num2) {

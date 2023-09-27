@@ -1,4 +1,4 @@
-package org.example.a07_Multiplicacion;
+package org.example.a07_multiplicacion;
 
 /*7. Multiplication: Store two real numbers and multiply them.
 Then store two other integers and multiply them.
