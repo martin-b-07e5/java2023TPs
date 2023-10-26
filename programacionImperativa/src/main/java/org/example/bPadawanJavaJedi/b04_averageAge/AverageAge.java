@@ -27,7 +27,6 @@ public class AverageAge {
     System.out.println("\naverageAge: " + averageAge);
     System.out.println("averageAge1: " + averageAge1);
     System.out.println("averageAge2: " + averageAge2);
-
   }
 
 }

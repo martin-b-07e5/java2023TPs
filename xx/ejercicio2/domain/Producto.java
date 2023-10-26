@@ -3,13 +3,11 @@ package ejercicio2.domain;
 public class Producto {
     private Long id;
     private String nombre;
-
     private Double precio;
-
     private int stock;
-
     private String description;
 
+    //    constructor
     public Producto() {
     }
 

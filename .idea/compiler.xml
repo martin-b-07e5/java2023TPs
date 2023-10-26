@@ -14,7 +14,7 @@
     <bytecodeTargetLevel target="17">
       <module name="clasesDeJava" target="17" />
       <module name="progamacionOrientadaObjetos" target="17" />
-      <module name="programacionImperativa" target="1.5" />
+      <module name="programacionImperativa" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
