@@ -4,18 +4,18 @@ public class Producto {
   private Long id;
   private String nombre;
   private Double precio;
-  private String descripción;
+  private String description;
   private int stock; // esto está en "se pide"
 
   // constructors
   public Producto() {
   }
 
-  public Producto(Long id, String nombre, Double precio, String descripción, int stock) {
+  public Producto(Long id, String nombre, Double precio, String description, int stock) {
     this.id = id;
     this.nombre = nombre;
     this.precio = precio;
-    this.descripción = descripción;
+    this.description = description;
     this.stock = stock;
   }
 
@@ -45,12 +45,12 @@ public class Producto {
     this.precio = precio;
   }
 
-  public String getDescripción() {
-    return descripción;
+  public String getDescription() {
+    return description;
   }
 
-  public void setDescripción(String descripción) {
-    this.descripción = descripción;
+  public void setDescription(String description) {
+    this.description = description;
   }
 
   public int getStock() {
