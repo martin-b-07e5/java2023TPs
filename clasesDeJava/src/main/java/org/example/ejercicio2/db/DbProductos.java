@@ -10,7 +10,7 @@ public class DbProductos {
   //  lista de productos
   public static List<Producto> productos = new ArrayList<Producto>();
 
-  public static void main(String[] args) {
+  public static void initProductos() {
 
     Producto producto1 = new Producto(1L, "Gafas de Sol Elegantes", 49.99, "Gafas de sol elegantes con montura de titanio y lentes polarizadas. Perfectas para cualquier ocasión bajo el sol.", 100);
     Producto producto2 = new Producto(2L, "Reloj de Lujo 'Oro Brillante'", 299.99, "Un reloj de lujo con una correa de cuero genuino y detalles de oro brillante. Hora de lucir con estilo.", 50);
