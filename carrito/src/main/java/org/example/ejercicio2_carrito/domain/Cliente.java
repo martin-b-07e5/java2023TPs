@@ -1,4 +1,4 @@
-package org.example.ejercicio2.domain;
+package org.example.ejercicio2_carrito.domain;
 
 import java.util.ArrayList;
 import java.util.List;

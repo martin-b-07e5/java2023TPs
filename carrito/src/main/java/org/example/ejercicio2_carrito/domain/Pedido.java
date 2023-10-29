@@ -1,6 +1,6 @@
-package org.example.ejercicio2.domain;
+package org.example.ejercicio2_carrito.domain;
 
-import org.example.ejercicio2.enums.EstadoPedidoEnum;
+import org.example.ejercicio2_carrito.enums.EstadoPedidoEnum;
 
 public class Pedido {
 

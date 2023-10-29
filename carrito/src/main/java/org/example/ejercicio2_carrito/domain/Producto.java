@@ -1,4 +1,4 @@
-package org.example.ejercicio2.domain;
+package org.example.ejercicio2_carrito.domain;
 
 public class Producto {
   private Long id;

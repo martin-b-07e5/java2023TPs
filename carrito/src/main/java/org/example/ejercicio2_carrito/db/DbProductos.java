@@ -1,6 +1,6 @@
-package org.example.ejercicio2.db;
+package org.example.ejercicio2_carrito.db;
 
-import org.example.ejercicio2.domain.Producto;
+import org.example.ejercicio2_carrito.domain.Producto;
 
 import java.util.ArrayList;
 import java.util.List;
