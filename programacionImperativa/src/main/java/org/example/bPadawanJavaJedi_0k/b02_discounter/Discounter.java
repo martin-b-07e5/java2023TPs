@@ -1,4 +1,4 @@
-package org.example.bPadawanJavaJedi.b02_discounter;
+package org.example.bPadawanJavaJedi_0k.b02_discounter;
 
 /* 2.Discounter: guardar un número en un espacio de memoria e
 decrementar dicho número 20 veces sin usar asignación.

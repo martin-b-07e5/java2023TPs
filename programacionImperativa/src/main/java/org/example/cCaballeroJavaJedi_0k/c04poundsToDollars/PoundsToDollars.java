@@ -1,4 +1,4 @@
-package org.example.cCaballeroJavaJedi.c04poundsToDollars;
+package org.example.cCaballeroJavaJedi_0k.c04poundsToDollars;
 
 /* Conversión de libras esterlinas a dólares:
     solicite al usuario una cantidad en libras esterlinas y muestre el equivalente en

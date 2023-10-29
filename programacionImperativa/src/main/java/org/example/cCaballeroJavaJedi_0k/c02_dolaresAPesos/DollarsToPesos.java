@@ -1,4 +1,4 @@
-package org.example.cCaballeroJavaJedi.c02_dolaresAPesos;
+package org.example.cCaballeroJavaJedi_0k.c02_dolaresAPesos;
 
 import java.util.Scanner;
 

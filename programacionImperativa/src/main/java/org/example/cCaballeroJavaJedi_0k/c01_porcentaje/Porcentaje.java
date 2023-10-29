@@ -1,4 +1,4 @@
-package org.example.cCaballeroJavaJedi.c01_porcentaje;
+package org.example.cCaballeroJavaJedi_0k.c01_porcentaje;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.example.bPadawanJavaJedi.b03_characters;
+package org.example.bPadawanJavaJedi_0k.b03_characters;
 
 /* 3.Chars: Guarde en distintos espacios de memoria los caracteres de su nombre EN UNICODE y luego imprimirlos por pantalla.
 ¿Por qué no puede usar "" en el char?

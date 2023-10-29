@@ -1,4 +1,4 @@
-package org.example.cCaballeroJavaJedi.c06BitcoinsToDollars;
+package org.example.cCaballeroJavaJedi_0k.c06BitcoinsToDollars;
 
 /* 6. Conversión de bitcoins a dólares:
 Escribir un programa en Java que solicite al usuario una cantidad en bitcoins y muestre el equivalente en dólares, utilizando una

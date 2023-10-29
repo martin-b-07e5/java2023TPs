@@ -1,4 +1,4 @@
-package org.example.bPadawanJavaJedi.b05_conversionToKg;
+package org.example.bPadawanJavaJedi_0k.b05_conversionToKg;
 
 import java.text.DecimalFormat;
 

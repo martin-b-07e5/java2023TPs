@@ -1,4 +1,4 @@
-package org.example.bPadawanJavaJedi.b04_averageAge;
+package org.example.bPadawanJavaJedi_0k.b04_averageAge;
 
 /* Average age :
   Store different age values and the names of those people in different memory spaces.

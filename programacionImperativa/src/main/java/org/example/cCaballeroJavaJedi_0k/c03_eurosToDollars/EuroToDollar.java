@@ -1,4 +1,4 @@
-package org.example.cCaballeroJavaJedi.c03_eurosToDollars;
+package org.example.cCaballeroJavaJedi_0k.c03_eurosToDollars;
 
 import java.util.Scanner;
 
