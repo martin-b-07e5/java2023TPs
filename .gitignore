@@ -1,9 +1,14 @@
-#directories
-.idea
+# directories
+# Ending with / specifies the pattern is for a folder. Matches all files and folders in any name folder
+.idea/
+idea/
+
 
 # files
 *.iml
-
+misc.xml
+.idea/misc.xml
+*.xml
 
 
 ### Java ###
@@ -13,8 +18,10 @@
 # Log file
 *.log
 
+
 # BlueJ files
 *.ctxt
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -28,7 +35,7 @@
 *.tar.gz
 *.rar
 
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
