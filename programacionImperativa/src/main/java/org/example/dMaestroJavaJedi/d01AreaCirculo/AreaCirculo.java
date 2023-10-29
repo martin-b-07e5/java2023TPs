@@ -9,6 +9,7 @@ public class AreaCirculo {
   public static void main(String[] args) {
     int radio = 5;
     double pi = 3.1416D;
+
     double area = pi * radio * radio;
     double area2 = Math.PI * Math.pow(radio, 2);
 
