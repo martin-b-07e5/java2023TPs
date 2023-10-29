@@ -3,10 +3,12 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/programacionImperativa/pom.xml" />
         <option value="$PROJECT_DIR$/progamacionOrientadaObjetos/pom.xml" />
         <option value="$PROJECT_DIR$/clasesDeJava/pom.xml" />
         <option value="$PROJECT_DIR$/ejercicio2/pom.xml" />
+        <option value="$PROJECT_DIR$/_1programacionImperativa/pom.xml" />
+        <option value="$PROJECT_DIR$/programacionImperativa/programacionImperativa/pom.xml" />
+        <option value="$PROJECT_DIR$/programacionImperativa/pom.xml" />
       </list>
     </option>
   </component>
