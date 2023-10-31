@@ -6,15 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_1progImperativa" />
         <module name="carrito" />
-        <module name="progamacionOrientadaObjetos" />
-        <module name="programacionImperativa" />
+        <module name="2progamacionOrientadaObjetos" />
+        <module name="_3algo" />
+        <module name="_2OOP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
+      <module name="2progamacionOrientadaObjetos" target="17" />
+      <module name="_1progImperativa" target="17" />
+      <module name="_2OOP" target="17" />
+      <module name="_3algo" target="17" />
       <module name="carrito" target="17" />
-      <module name="progamacionOrientadaObjetos" target="17" />
-      <module name="programacionImperativa" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_2OOP/2progamacionOrientadaObjetos.iml" filepath="$PROJECT_DIR$/_2OOP/2progamacionOrientadaObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1progImperativa.iml" filepath="$PROJECT_DIR$/_1progImperativa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2OOP.iml" filepath="$PROJECT_DIR$/_2OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3algo.iml" filepath="$PROJECT_DIR$/_3algo.iml" />
       <module fileurl="file://$PROJECT_DIR$/carrito/carrito.iml" filepath="$PROJECT_DIR$/carrito/carrito.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java2023TPs.iml" filepath="$PROJECT_DIR$/.idea/java2023TPs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/progamacionOrientadaObjetos/progamacionOrientadaObjetos.iml" filepath="$PROJECT_DIR$/progamacionOrientadaObjetos/progamacionOrientadaObjetos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/programacionImperativa/programacionImperativa.iml" filepath="$PROJECT_DIR$/programacionImperativa/programacionImperativa.iml" />
     </modules>
   </component>
 </project>
