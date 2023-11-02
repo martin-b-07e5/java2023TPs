@@ -18,6 +18,6 @@ public class Caracteres {
     char ch4 = 't';
     char ch5 = 'í';
     char ch6 = 'n';
-    System.out.printf("Name: " + ch1 + ch2 + ch3 + ch4 + ch5 + ch6);
+    System.out.printf("PositiveNegativeZero: " + ch1 + ch2 + ch3 + ch4 + ch5 + ch6);
   }
 }

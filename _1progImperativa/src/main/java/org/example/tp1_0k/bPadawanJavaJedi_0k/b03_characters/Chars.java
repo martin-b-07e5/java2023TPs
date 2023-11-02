@@ -28,7 +28,7 @@ public class Chars {
     char ch5 = 'ⓘ';
     char ch6 = 'ⓝ';
     char ch7 = '✨';
-    System.out.printf("Name: " + ch1 + ch2 + ch3 + ch4 + ch5 + ch6 + " " + ch7);
+    System.out.printf("PositiveNegativeZero: " + ch1 + ch2 + ch3 + ch4 + ch5 + ch6 + " " + ch7);
   }
 
 }
