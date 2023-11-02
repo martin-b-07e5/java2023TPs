@@ -43,7 +43,7 @@ public class PositiveNegativeZeroWhile {
           validInput = (input == 'c' || input == 'q'); // if c or q » true
 
         } catch (Exception e) {
-          System.out.println("Invalid input, continue the inner loop");
+          System.out.println("Invalid input, please enter 'c' or 'q'");
         }
       }
 

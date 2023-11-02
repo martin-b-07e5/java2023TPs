@@ -1,7 +1,6 @@
 package org.example.tp2.aIniciadoJavaJedi._04_positiveNegativeZero;
 
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class PositiveNegativeZeroDoWhile {
 
@@ -14,9 +13,9 @@ public class PositiveNegativeZeroDoWhile {
       double number;
 
       System.out.print("Enter a number: ");
-      try {
+      if (scanner.hasNextDouble()) {
         number = scanner.nextDouble();
-      } catch (InputMismatchException e) {
+      } else {
         System.out.println("Invalid input. Please enter a number");
         scanner.nextLine(); // Consume the invalid input
         continue;
@@ -38,15 +37,12 @@ public class PositiveNegativeZeroDoWhile {
       boolean validInput = false;
       while (!validInput) {
         System.out.print("Press 'c' to continue or 'q' to quit: ");
-        String inputString = scanner.next().toLowerCase(); // Convert input to lowercase
-        if (inputString.length() > 0) {
-          input = inputString.charAt(0);
-        } else {
-          input = ' ';
-        }
-        if (input == 'c' || input == 'q') {
-          validInput = true;
-        } else {
+        try {
+          // input = scanner.next().charAt(0);  // Read the first character of the input
+          input = Character.toLowerCase(scanner.next().charAt(0));
+          validInput = (input == 'c' || input == 'q');
+
+        } catch (Exception e) {
           System.out.println("Invalid input, please enter 'c' or 'q'");
         }
       }
