@@ -54,4 +54,5 @@ public class PositiveNegativeZeroDoWhile {
       System.out.println("Thanks for using my program.");
     }
   }
+
 }
