@@ -41,10 +41,7 @@ public class SumOfNaturalNumbers {
         } catch (Exception e) {
           System.out.println("Invalid input, please enter 'c' or 'q'");
         }
-
-
       }
-
     }
 
     scanner.close();
