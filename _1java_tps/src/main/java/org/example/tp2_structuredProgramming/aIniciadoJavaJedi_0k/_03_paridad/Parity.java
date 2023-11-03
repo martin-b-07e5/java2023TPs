@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._03_paridad;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._03_paridad;
 
 /* Store a number and determine if it is odd or even. */
 

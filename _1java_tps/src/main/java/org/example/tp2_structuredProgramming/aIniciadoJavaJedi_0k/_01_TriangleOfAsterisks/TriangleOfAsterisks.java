@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._01_TriangleOfAsterisks;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._01_TriangleOfAsterisks;
 
 /* Print an asterisk triangle. Use loops(bucles). */
 

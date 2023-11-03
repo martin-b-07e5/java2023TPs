@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._05_sumOfNaturalNumbers;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._05_sumOfNaturalNumbers;
 
 /* Calculate the sum of the first N natural numbers, where N is an integer */
 

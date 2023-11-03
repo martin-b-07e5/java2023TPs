@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._02_misAmigos;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._02_misAmigos;
 
 /* Save the name of N number of friends in variables, iterate over
 that amount showing the name of each friend. */

@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._04_positiveNegativeZero;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._04_positiveNegativeZero;
 
 /* Store a number and determine whether it is positive, negative or zero. */
 

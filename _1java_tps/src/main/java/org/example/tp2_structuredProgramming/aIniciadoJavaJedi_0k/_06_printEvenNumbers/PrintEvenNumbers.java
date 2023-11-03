@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._06_printEvenNumbers;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._06_printEvenNumbers;
 
 /* Print only the N even numbers, where the N numbers are stored in variables or constants as appropriate. */
 

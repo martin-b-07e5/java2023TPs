@@ -1,4 +1,4 @@
-package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._07_grades;
+package org.example.tp2_structuredProgramming.aIniciadoJavaJedi_0k._07_grades;
 
 /* Print a title for the program,
 Then a list (followed, NOT with line breaks) of the N grades of my exams,
