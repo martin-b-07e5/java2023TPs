@@ -2,32 +2,24 @@ package org.example.tp2_structuredProgramming.aIniciadoJavaJedi._06_printEvenNum
 
 /* Print only the N even numbers, where the N numbers are stored in variables or constants as appropriate. */
 
-import java.util.Scanner;
-
 public class PrintEvenNumbers {
 
   public static void main(String[] args) {
+    // Define and store the numbers in individual variables
+    int num1 = 2;
+    int num2 = 3;
+    int num3 = 4;
+    int num4 = 5;
 
-    Scanner scanner = new Scanner(System.in);
+    System.out.println("Even numbers among the given values:");
 
-    System.out.print("Enter a positive integer: ");
-    int number = scanner.nextInt();
+    // Check and display if each number is even
+    if (num1 % 2 == 0)
+      System.out.println(num1);
 
-    if (number < 0) {
-      System.out.println("The number should be a positive integer");
-    }
-
-    System.out.println("----------------");
-    for (int i = 2, count = 0; count < number; i += 2, count++) {
-      System.out.println(i);
-    }
-    System.out.println("----------------");
-    for (int i = 2; number > 0; i += 2) {
-      System.out.println(i);
-      number--;
-    }
-    System.out.println("----------------");
-
+    if (num2 % 2 == 0) System.out.println(num2);
+    if (num3 % 2 == 0) System.out.println(num3);
+    if (num4 % 2 == 0) System.out.println(num3);
   }
 
 }
